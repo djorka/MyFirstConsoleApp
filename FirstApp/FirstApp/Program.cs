@@ -6,7 +6,7 @@ namespace FirstApp
     {
         static void Main(string[] args)
         {
-            string sName = "Andrew Schirmer";
+            string sName = "Andrew";
             int iCount;
 
             for (iCount = 0; iCount < 3; iCount++)
